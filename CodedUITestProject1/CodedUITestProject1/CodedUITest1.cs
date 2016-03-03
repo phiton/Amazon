@@ -25,7 +25,8 @@ namespace CodedUITestProject1
         [TestMethod]
         public void CodedUITestMethod1()
         {
-            // To generate code for this test, select "Generate Code for Coded UI Test" from the shortcut menu and select one of the menu items.
+            // adde dsome rnadom stuff and deletd some stuff
+            //check it out!
         }
 
         #region Additional test attributes
