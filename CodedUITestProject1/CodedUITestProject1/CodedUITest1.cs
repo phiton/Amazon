@@ -25,7 +25,7 @@ namespace CodedUITestProject1
         [TestMethod]
         public void CodedUITestMethod1()
         {
-            // adde dsome rnadom stuff and deletd some stuff
+            // adde dsome rnadom stuff and deletd some stuffdfdfdfadf
             //check it out!
         }
 
