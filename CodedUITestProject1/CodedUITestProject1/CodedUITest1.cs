@@ -26,7 +26,7 @@ namespace CodedUITestProject1
         public void CodedUITestMethod1()
         {
             // adde dsome rnadom stuff and deletd some stuffdfdfdfadf
-            //check it out!lklklkl
+            //check it out!lklklkldfdfdfdf
         }
 
         #region Additional test attributes
