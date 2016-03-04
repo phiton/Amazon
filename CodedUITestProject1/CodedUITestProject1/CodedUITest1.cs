@@ -14,7 +14,7 @@ namespace CodedUITestProject1
 {
     /// <summary> changes fo tpic branch
     /// Summary description for CodedUITest1
-    /// </summary>
+    /// </summary> dfdfdf
     [CodedUITest]
     public class CodedUITest1
     {
