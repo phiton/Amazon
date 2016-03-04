@@ -12,7 +12,7 @@ using Keyboard = Microsoft.VisualStudio.TestTools.UITesting.Keyboard;
 
 namespace CodedUITestProject1
 {
-    /// <summary>
+    /// <summary> changes fo tpic branch
     /// Summary description for CodedUITest1
     /// </summary>
     [CodedUITest]
